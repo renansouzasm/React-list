@@ -1,0 +1,56 @@
+.cardTodo {
+  width: 100%;
+  height: 70px;
+  background-color: #5c79e3;
+  padding: 8px 20px;
+  margin-bottom: 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+p {
+  font-size: 1.2rem;
+  overflow: hidden;
+  margin-right: 20px;
+  max-height: 90%;
+}
+
+.btns {
+  display: flex;
+}
+
+.btnTodo {
+  background-color: transparent;
+  border: none;
+  border-radius: 1000px;
+  height: 40px;
+  width: 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnTodo:hover {
+  cursor: pointer;
+  transition: 0.2s;
+  background-color: #6b86e4;
+}
+
+@media screen and (max-width: 400px) {
+  .cardTodo {
+    padding: 10px;
+  }
+
+  p {
+    font-size: 1rem;
+    margin-right: 5px;
+  }
+
+  .btnTodo {
+    height: 32px;
+    width: 32px;
+  }
+}
