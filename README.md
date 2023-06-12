@@ -8,6 +8,6 @@ O projeto tem um design básico, feito por mim utilizando o _**Figma**_, e utili
     <th>Preview</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/renansouzasm/React-list/assets/101893896/537c0c5f-5d3c-4375-8e1a-843a99bf532c" alt="preview" /></td>
+    <td><img src="https://github.com/renansouzasm/React-list/assets/101893896/3ca90bbe-4976-4f2e-9618-148c256c3f21" alt="preview" /></td>
   </tr>
 </table>
