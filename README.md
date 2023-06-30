@@ -1,5 +1,5 @@
 # React list
->Um mini-projeto, que simula uma to do list, snedo possível adicionar novas tarefas, excluir e marcar tarefas já existentes como feitas.
+>Um mini-projeto, que simula uma to do list, sendo possível adicionar novas tarefas, excluir e marcar tarefas já existentes como feitas.
 
 O projeto tem um design básico, feito por mim utilizando o _**Figma**_, e utilizando _**React**_ na parte do código, junto com o hook _**useState**_, para mudar o estado da lista.
 
